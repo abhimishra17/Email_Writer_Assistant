@@ -33,12 +33,6 @@ Boost your productivity and write better emails faster with **Email Writer Assis
 
 You can install the extension manually or from the Chrome Web Store:
 
-### 👉 From Chrome Web Store (Recommended)
-
-> _(Add link once published)_
-
-[Install from Chrome Web Store](#)
-
 ### 🛠️ Manual Installation (For Developers)
 
 1. Clone or download this repository:
