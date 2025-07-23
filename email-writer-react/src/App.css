@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
+    background-color: #f9f9f9;
+  }
+  
+  .MuiPaper-root {
+    transition: background-color 0.3s ease;
+  }
+  
+  textarea {
+    resize: vertical !important;
+  }
+  
